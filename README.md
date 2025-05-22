@@ -11,8 +11,10 @@ HealthcareDataset1.xlsx: Contains detailed patient information, including demogr
 HealthcareDataset2.xlsx: Provides hospital treatment details, such as the treating doctor, room number, daily costs, treatment types, and recovery ratings, linked to patients via PatientID.
 These datasets can be found at the following links:
 
-HealthcareDataset1.xlsx
-HealthcareDataset2.xlsx
+HealthcareDataset1.xlsx:https://docs.google.com/spreadsheets/d/1KjkghZBPVllO_TLvcJaJhnV_5aYACU22/edit?usp=sharing&ouid=104725642413334722601&rtpof=true&sd=true
+
+HealthcareDataset2.xlsx:https://docs.google.com/spreadsheets/d/19yrDzZdIF96x0TMqzwxsTFCiTnJrP9u8/edit?usp=sharing&ouid=104725642413334722601&rtpof=true&sd=true
+
 Data Preparation
 Merging Datasets: The HealthcareDataset1.xlsx and HealthcareDataset2.xlsx datasets were merged in Power BI using the PatientID as the key to combine patient information with hospital treatment details.
 
