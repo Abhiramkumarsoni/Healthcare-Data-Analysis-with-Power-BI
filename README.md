@@ -32,7 +32,36 @@ HealthcareDataset2.xlsx:https://docs.google.com/spreadsheets/d/19yrDzZdIF96x0TMq
 ## Key Insights from the Analysis
 
 The Power BI dashboard and underlying analysis revealed several important trends and insights, including:
+* ** Project 2: Healthcare Data Analysis – Power BI Dashboard
 
+1.Peak Patient Influx:
+a.Highest patient counts from January to March
+b.november ,december achieve highes recoverting rating 6
+
+2.Most Expensive Diseases:
+COVID-19 and hypertension  with average treatment costs around ₹12,000
+while diabites has low  10.5k
+
+
+3.Best Recovery Rates by Age:
+Infants and Adults had the highest average recovery ratings 
+
+4.Hospital Efficiency:
+Riverside Hospital showed the highest average recovery rating (5.6)
+Green Valley Medical Center had the highest patient load (207 patients)
+
+5.Year-wise Analysis:
+Consistent decrease in patient count and length of stay from 2021 to 2023
+2023 had the lowest average stay and recovery scores
+
+6.Top 5 doctor whose recovery rating is 10
+   Barbara Jackson
+   Elizabeth Rodriguez 
+   jennifer Jackson 
+   Mary Jones 
+   Richard Thomas  
+   Robert Davis 
+   Thomas
 * **Patient Demographics:** The predominant age groups are Senior and Adult.
 * **Treatment Costs:** Surgery has the highest average treatment cost.
 * **Diagnosis by Gender:** Some variations in gender distribution across different diagnoses were observed.
