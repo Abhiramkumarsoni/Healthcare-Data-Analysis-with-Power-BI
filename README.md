@@ -62,8 +62,7 @@ Consistent decrease in patient count and length of stay from 2021 to 2023
    Richard Thomas  
    Robert Davis 
    Thomas
-* **Patient Demographics:** The predominant age groups are Senior and Adult.
-* **Treatment Costs:** Surgery has the highest average treatment cost.
+   
 * **Diagnosis by Gender:** Some variations in gender distribution across different diagnoses were observed.
 * **Blood Type Prevalence:** AB+ and B- are among the most prevalent blood types.
 * **Recovery Rating:** Counseling has the highest average recovery rating by treatment type.
