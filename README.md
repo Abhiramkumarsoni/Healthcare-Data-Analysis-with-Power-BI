@@ -32,6 +32,7 @@ HealthcareDataset2.xlsx:https://docs.google.com/spreadsheets/d/19yrDzZdIF96x0TMq
 ## Key Insights from the Analysis
 
 The Power BI dashboard and underlying analysis revealed several important trends and insights, including:
+
 1.Peak Patient Influx:
  a.Highest patient counts from January to March
  b.november ,december achieve highes recoverting rating 6
