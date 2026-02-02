@@ -6,6 +6,10 @@ This project involves a comprehensive analysis of healthcare datasets using Powe
 
 This analysis was conducted as part of a case study for HealthStat Solutions, a company specializing in healthcare analytics.
 
+Dashboard image:
+<img width="1279" height="724" alt="image" src="https://github.com/user-attachments/assets/6b20287a-d94c-455b-b13d-96237ead5af9" />
+
+
 ## Data Sources
 
 The analysis utilizes two datasets provided in Excel format:
